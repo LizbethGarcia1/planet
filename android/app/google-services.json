@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387793399716",
+    "firebase_url": "https://planet-63156.firebaseio.com",
+    "project_id": "planet-63156",
+    "storage_bucket": "planet-63156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387793399716:android:b9213a68f2c695e1ecdb31",
+        "android_client_info": {
+          "package_name": "mx.lizbeth.planet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387793399716-c7s0jqe1jmd549347u86ntu72d2nb5i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMehkSpYyyyyp4ttGX_olgTHzyigYaIzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387793399716-c7s0jqe1jmd549347u86ntu72d2nb5i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
